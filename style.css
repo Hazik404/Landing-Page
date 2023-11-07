@@ -1,0 +1,16 @@
+*{
+    background-color: #1f2937;
+    font-family: Roboto, sans-serif;
+}
+.header{
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sub-header{
+    display: flex;
+    justify-content: flex-end;
+}
+
