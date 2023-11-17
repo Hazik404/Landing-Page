@@ -22,7 +22,7 @@
     font-size: 18px;
     font-weight: 300;
     gap: 20px;
-    lign-items: flex-start;
+    
 }
 .hero-section{
     display: flex;
@@ -99,12 +99,25 @@
 .info-text{
     background-color: #f9faf8;
     display: flex;
+    justify-content: center;
+    gap: 110px;
+    
+    
+    
+    
+    
+    
     
 }
-.text-1
+.text-1,
+.text-2,
+.text-3,
+.text-4
 {
     background-color: #f9faf8;
-    color: #1f2937;
+    width: 100px;
     padding-bottom: 30px;
     
 }
+
+
